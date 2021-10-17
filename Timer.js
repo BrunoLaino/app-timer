@@ -1,4 +1,3 @@
-import { StatusBar } from "expo-status-bar";
 import React, { useEffect } from "react";
 import { Text, TouchableOpacity, View } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
@@ -57,7 +56,6 @@ export function Timer(props) {
 
   return (
     <View style={styles.container}>
-      <StatusBar style="auto" />
       <LinearGradient
         // Background Linear Gradient
         colors={["rgba(59,29,105,1)", "rgba(59,29,105,0.8)"]}
