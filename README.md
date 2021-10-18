@@ -10,7 +10,7 @@
  <ul>
     <li><a href="#rodando-app">Rodando o Aplicativo</a></li>
  </ul>
- <li><a href="#tecnologias">Tecnologias</a></li>
+ <li><a href="#tecnologias">Tecnologias</a></li>    
  <li><a href="#status-projeto">Status do projeto</a></li>
  <li><a href="#features">Features</a></li>
  <li><a href="#autor">Autor</a></li>
